@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: A job to deploy blog.
+    name: hexo deploy
     steps:
     - name: Checkout
       uses: actions/checkout@v1
