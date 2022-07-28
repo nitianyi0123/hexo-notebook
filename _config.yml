@@ -105,4 +105,3 @@ deploy:
   type: git
   repo: git@github.com:nitianyi0123/nitianyi0123.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
