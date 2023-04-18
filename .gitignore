@@ -7,3 +7,7 @@ public/
 .deploy*/
 _multiconfig.yml
 themes/**/.git
+themes/**/.githooks
+themes/**/.github
+themes/**/.gitattributes
+themes/**/.gitignore
